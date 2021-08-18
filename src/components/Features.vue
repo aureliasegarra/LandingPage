@@ -1,8 +1,8 @@
 <template>
-     <section class="bg-bookmark-purple py-20 mt-20 lg:mt-60">
+     <section class="bg-bookmark-purple py-20 mt-20 pb-60 lg:mt-60">
         <!-- Heading-->
         <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
-            <h1 class="text-3xl text-center text-bookmark-white">Features</h1>
+            <h1 class="text-4xl text-center text-bookmark-white">Features</h1>
             <p class="text-center text-bookmark-grey mt-4">From professional podcasting to music recording, gaming and even sound for video, Yeti takes your projects to the heights of studio quality.</p>
         </div>
         <!-- Feature #1-->
