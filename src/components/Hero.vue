@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 z-10">
-                <img src="../assets/images/chris-yang-Z_7wVf_JgS0-unsplash.jpeg" alt="micro illustration" class="w-3/4 h-3/4 sm:w-3/4 sm:h-3/4 md:w-3/5 md:h-3/5 rounded-lg">
+                <img src="../assets/images/chris-yang-Z_7wVf_JgS0-unsplash.jpeg" alt="micro illustration" class="w-3/4 h-3/4 sm:w-3/4 sm:h-3/4 md:w-3/5 md:h-3/5 rounded-xl">
             </div>
             <div class="hidden md:block overflow-hidden bg-bookmark-purple rounded-l-full absolute h-80 w-2/4 top-32 right-0 lg:-bottom-28 lg:-right-30"></div>
 
