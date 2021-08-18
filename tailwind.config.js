@@ -5,11 +5,11 @@ module.exports = {
     extend: {
       colors: {
         "bookmark-purple": "#5267DF",
-        "bookmark-red": "#FA5959",
+        "bookmark-red": "#DB2877",
         "bookmark-blue": "#241A45",
         "bookmark-grey": "#9194A2",
         "bookmark-white": "#F7F7F7",
-        "bookmark-dark": "02080C",
+        "bookmark-dark": "#02080C",
       }
     },
     fontFamily: {
