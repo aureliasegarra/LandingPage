@@ -3,29 +3,29 @@
 ## Create a landing page for a product with Vue.js 
 
 ## Illustration
-### 🖥   Desktop illustration
+### :desktop_computer: Desktop illustration
 ![desktop illustration](./src/assets/screenshots/screenshot1.png)
 
-### 📱  Mobile illustration
+### :iphone: Mobile illustration
 ![mobile illustration](./src/assets/screenshots/screenshot2.png)
 
 
-## 🛠   Language/tools
+## :hammer_and_wrench: Language/tools
 - HTML5 / CSS3
 - Vue3 
 - Vite.js
 - Tailwindcss
   
 
-## 🎯   Goals
+## :dart:  Goals
 - Discover Vue.js version 3
 - Discover Vite.js 
 - Explore Tailwindcss
 - UX / UI
 
-## 🔗  How to use
+## :link: How to use
 
-### ⚙️   Launch the development server & meeting on http://localhost:3000/
+### :gear: Launch the development server & meeting on http://localhost:3000/
 
 ### Project setup
 ```javascript
